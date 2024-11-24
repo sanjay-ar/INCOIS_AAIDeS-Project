@@ -1,4 +1,4 @@
-# Automated Animal Identification and Detection of fish Species
+# Automated Marine Animal Identification and Detection of Species
 
 
 **Mission:** Empower fishermen through cutting-edge technology by revolutionizing the fishing industry with a sustainable and efficient approach.
