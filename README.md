@@ -1,8 +1,4 @@
-Here's a concise and professional README for your **INCOIS_AAIDeS Project**:
-
----
-
-# INCOIS_AAIDeS Project: Automated Animal Identification and Detection of Species
+# AAIDeS Project: Automated Animal Identification and Detection of Species
 
 **Mission:** Empower fishermen through cutting-edge technology by revolutionizing the fishing industry with a sustainable and efficient approach.
 
