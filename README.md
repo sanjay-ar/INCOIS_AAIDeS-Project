@@ -11,6 +11,8 @@ The **INCOIS_AAIDeS Project** leverages advanced deep learning techniques to ana
 - Promote sustainability in marine ecosystems.
 - Provide actionable insights to fishermen for better decision-making.
 
+  <img width="943" alt="image" src="32.gif">
+
 ## Features
 
 - **Deep Learning Model:** Analyzes fish species and behaviors using real-time data.
