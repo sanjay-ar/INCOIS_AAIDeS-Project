@@ -71,7 +71,3 @@ We welcome contributions to enhance the AAIDeS project. Please follow these step
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to modify or add details specific to your implementation!
